@@ -1,7 +1,5 @@
 # Exploratory Data Analysis-Terrorism
 
-![Global Terrorism]([terrorism.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_10171959_globe-concept-of-global-terrorism.html&psig=AOvVaw09x7tcTOdR0qEUwuTVInSD&ust=1692947772455000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCIiFm5Hg9IADFQAAAAAdAAAAABAQ))
-
 ## Overview
 
 Welcome to the "Exploring Global Terrorism Data" project! This repository showcases my exploration of a terrorism dataset using exploratory data analysis (EDA) techniques. The project was completed as part of my internship at CodersCave.
