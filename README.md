@@ -27,7 +27,7 @@ In this project, I dived into the fascinating world of terrorism data, seeking t
 
 ## Repository Structure
 
-- `data/`: Contains the terrorism dataset file.
+- `globalterrorism/`: Contains the terrorism dataset file.
 - `main/`: Jupyter Notebook files documenting the EDA process.
 - `README.md`: The detailed project README you're currently reading.
 
